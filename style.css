@@ -1,0 +1,7 @@
+p:nth-child(2){
+    color: red;
+}
+p:nth-last-child(2){
+    color: red;
+    font-size: 1.2rem;
+}
